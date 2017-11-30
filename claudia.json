@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "daryl-executor",
+    "name": "daryl",
+    "region": "us-east-1"
+  }
+}
